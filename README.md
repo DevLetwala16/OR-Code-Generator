@@ -1,2 +1,2 @@
-# OR-Code-Generator
+# QR-Code-Generator
 All Types Of OR Generate Here...
